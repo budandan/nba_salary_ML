@@ -7,6 +7,6 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Awesome NBA Salary App</a>
+      <a class="navbar-brand" href="../index.php">Awesome NBA Salary App</a>
     </div>
 </nav>

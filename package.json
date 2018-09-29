@@ -1,0 +1,23 @@
+{
+  "name": "wolff_hackathon",
+  "version": "1.0.0",
+  "description": "1. git clone 'THISREPO'     2. Install Docker     3. Open Docker and make sure it is running     4. cd 'THISREPO'     5. docker-compose up     6. site running on localhost:8080     7. db running on localhost:8081",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budandan/nba_salary_ML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budandan/nba_salary_ML/issues"
+  },
+  "homepage": "https://github.com/budandan/nba_salary_ML#readme",
+  "dependencies": {
+    "brain.js": "^1.4.1"
+  }
+}
