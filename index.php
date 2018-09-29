@@ -1,8 +1,18 @@
 <?php
     require($_SERVER["DOCUMENT_ROOT"]."/php/connect.php");
-    require($_SERVER["DOCUMENT_ROOT"]."/open_body.php");
-    require($_SERVER["DOCUMENT_ROOT"]."/navbar.php");
+    require($_SERVER["DOCUMENT_ROOT"]."/php/open_body.php");
+    require($_SERVER["DOCUMENT_ROOT"]."/php/navbar.php");
 ?>
+
+<!-- CODE HERE -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            SUUUUU DUDE
+        </div>
+    </div>
+</div>
 
 <?php // CODE HERE
     $select_all_query = "SELECT * FROM player;";
@@ -14,5 +24,5 @@
 ?>
 
 <?php
-    require($_SERVER["DOCUMENT_ROOT"]."/close_body.php");
+    require($_SERVER["DOCUMENT_ROOT"]."/php/close_body.php");
 ?>
